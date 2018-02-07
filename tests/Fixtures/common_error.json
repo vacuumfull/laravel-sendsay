@@ -1,0 +1,10 @@
+
+{
+  "request.id":"fake-ECE9465C-01CD-11E8-B8C3-7228368CC702",
+  "errors":{
+    "id":"error/auth/failed",
+    "explain":"wrong_credentials"
+  },
+  "duration": 0.211693,
+  "_ehid":"187400.261427039908.1516884459"
+}
