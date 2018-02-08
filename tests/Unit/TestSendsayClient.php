@@ -18,6 +18,7 @@ class ClientTest extends \Tests\TestCase
         $this->assertClassHasAttribute('connector', SendsayClient::class);
     }
 
+
     /**
      * @group Unit
      * @group Libraries
